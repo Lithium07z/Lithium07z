@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia)
+<a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=social&logo=JAVA&logoColor=007396"/></a>
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
