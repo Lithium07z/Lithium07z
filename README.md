@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia)
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=ECLIPSE%20IDE&logoColor=FFFFFF"/></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=flat-square&logo=C%20Programming&logoColor=FFFFFF"/></a>
+<a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+<a href="https://visualstudio.microsoft.com/ko/downloads/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF"/></a>
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
