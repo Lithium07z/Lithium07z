@@ -1,4 +1,4 @@
-### Hi there 👋
+### KIM JUNHO 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia)
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=ECLIPSE%20IDE&logoColor=FFFFFF"/></a>
