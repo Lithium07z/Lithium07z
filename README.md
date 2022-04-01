@@ -1,5 +1,6 @@
 ### Hi there 👋
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=007396"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lithium07z&show_icons=true&theme=radical)
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
