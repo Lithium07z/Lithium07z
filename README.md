@@ -12,10 +12,11 @@
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
-### tools
+### Tools
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=ECLIPSE%20IDE&logoColor=FFFFFF"/></a>
 <a href="https://visualstudio.microsoft.com/ko/downloads/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF"/></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=ANACONDA&logoColor=FFFFFF"/></a>
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
