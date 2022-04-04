@@ -28,6 +28,8 @@
 
 ### 🕹 What are you interested in? 
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
+<a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+
 
 # 🔜 What's next?
 ### 다음 학기 전공 강의 (Next Semester's Major lecture)
@@ -35,7 +37,7 @@
 - C++ 프로그래밍 (C++ Programming)
 - VR/AR/게임제작 기초 (VR/AR/Basics of game production)
 
-# Lastly, what do you want to say?
+# 😎 These days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 아직 많이는 못풀었지만 하다보면 늘겠죠?
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
