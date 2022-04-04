@@ -7,12 +7,12 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lithium07)](https://solved.ac/lithium07)
 
 
-### Welcome to my Profile
+### Hi Junho Kim! So... What kind of person are you? 🤔
 - __Name__ : 김준호 (KIM JUNHO)
-- 
 - __Age__ : 23 (Korean age)
-
 - __Email__ : Lithium@hallym.ac.kr
+- __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data)
+- __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮!
 
 # 💪 SKILLS
 ### 📝 Platforms & Languages 
@@ -25,6 +25,20 @@
 <a href="https://visualstudio.microsoft.com/ko/downloads/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF"/></a>
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=ANACONDA&logoColor=FFFFFF"/></a>
+
+### What are you interested in? 🕹
+- Games
+- Information security
+- Car
+
+# 🔜 What's next?
+### 다음 학기 전공 강의 (Next Semester's Major lecture)
+- 알고리즘 (Algorithm)
+- C++ 프로그래밍 (C++ Programming)
+- VR/AR/게임제작 기초 (VR/AR/Basics of game production)
+
+# Lastly, what do you want to say?
+- 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 아직 많이는 못풀었지만 하다보면 늘겠죠?
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
