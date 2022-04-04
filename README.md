@@ -27,7 +27,7 @@
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=ANACONDA&logoColor=FFFFFF"/></a>
 
 ### 🕹 What are you interested in? 
-<a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat-square&logo=UNITY&logoColor=000000"/></a>
+<a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 
 # 🔜 What's next?
 ### 다음 학기 전공 강의 (Next Semester's Major lecture)
