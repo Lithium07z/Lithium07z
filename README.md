@@ -6,8 +6,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithium07z&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lithium07)](https://solved.ac/lithium07)
 
+
+### Welcome to my Profile
 - __Name__ : 김준호 (KIM JUNHO)
+- 
 - __Age__ : 23 (Korean age)
+
 - __Email__ : Lithium@hallym.ac.kr
 
 # 💪 SKILLS
