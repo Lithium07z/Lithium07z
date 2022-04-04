@@ -7,7 +7,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lithium07)](https://solved.ac/lithium07)
 
 
-# Hi Junho Kim! So... What kind of person are you? 🤔
+# 🤔 Hi Junho Kim! So... What kind of person are you? 
 - __Name__ : 김준호 (KIM JUNHO)
 - __Age__ : 23 (Korean age)
 - __Email__ : Lithium@hallym.ac.kr
@@ -26,10 +26,10 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF"/></a>
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=ANACONDA&logoColor=FFFFFF"/></a>
 
-### 🕹 What are you interested in? 
+### 🕹 Interested
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 <a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
-
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=FFFFFF"/></a>
 
 # 🔜 What's next?
 ### 다음 학기 전공 강의 (Next Semester's Major lecture)
