@@ -13,6 +13,7 @@
 - __Email__ : Lithium@hallym.ac.kr
 - __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data)
 - __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮! <a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
+- __SNS__ : <a href="https://www.instagram.com/junho_drum/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=FFFFFF"/></a>
 
 # 💪 SKILLS
 ### 📝 Platforms & Languages 
