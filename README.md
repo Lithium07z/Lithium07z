@@ -12,7 +12,7 @@
 - __Age__ : 23 (Korean age)
 - __Email__ : Lithium@hallym.ac.kr
 - __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data)
-- __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮!
+- __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮! <a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
 
 # 💪 SKILLS
 ### 📝 Platforms & Languages 
