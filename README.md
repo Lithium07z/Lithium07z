@@ -8,7 +8,7 @@
 
 
 # 🤔 Hi Junho Kim! So... What kind of person are you? 
-![alt text](Profile.png)
+![alt text](Profile.jpg)
 - __Name__ : 김준호 (KIM JUNHO)
 - __Age__ : 23 (Korean age)
 - __Email__ : Lithium@hallym.ac.kr
