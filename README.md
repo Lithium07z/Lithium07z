@@ -11,9 +11,14 @@
 - __Name__ : 김준호 (KIM JUNHO)
 - __Age__ : 23 (Korean age)
 - __Email__ : Lithium@hallym.ac.kr
-- __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data)
+- __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data) / If you get more information, 'Click this  <u>[_link_](https://sw.hallym.ac.kr/index.php?mp=2_3)</u>'
 - __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮! <a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
 - __SNS__ : <a href="https://www.instagram.com/junho_drum/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=FFFFFF"/></a>
+> "넘치는 열정으로 더 나은 배움을 위해!" <br>
+> 안녕하세요! 게임 개발자가 되고 싶은 김준호입니다!!
+> 저는 게임만큼 사람들에게 사랑받고 개발자와 사용자가 가깝게 느껴지는 프로그램은 없다고 생각합니다.
+> 제가 게임하며 느꼈던 개발진, 운영진분들의 열정과 사랑을 제가 그러한 개발자가 되어 다시 나누어 줄 수 있도록 
+> 오늘도 열심히 공부하고 도전하고 노력하고 있습니다 감사합니다!!    
 
 # 💪 SKILLS
 ### 📝 Platforms & Languages 
@@ -30,16 +35,35 @@
 ### 🕹 Interested
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 <a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=FFFFFF"/></a>
+<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=FFFFFF"/></a>
+<a href="https://developer.android.com/studio/index.html" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></a>
+
+# 💻 Major Lectures
+### 📘 That I Completed
+- 자바 프로그래밍1 (Java Programming 1)
+- 자바 프로그래밍2 (Java Programming 2)
+- 선형대수학 (Linear algebra)
+- 이산구조론 (Discrete tectonics)
+- 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
+
+### 📙 That I'm Listening Now
+- 자료구조 (Data structure)
+- C 프로그래밍 (C Programming)
+- 논리 설계 및 실험 (Logical Design and Experiment)
+- 파이썬 과학 프로그래밍 (Python Science Programming)
+- 소프트웨어개론 (Software Overview)
 
 # 🔜 What's next?
-### 다음 학기 전공 강의 (Next Semester's Major lecture)
+### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
 - 알고리즘 (Algorithm)
 - C++ 프로그래밍 (C++ Programming)
 - VR/AR/게임제작 기초 (VR/AR/Basics of game production)
+### ✈️ 2022년도 하계 해외 IT교육 (2022 Summer Overseas IT Education)
+- 영국 York대학교 (University of York, United Kingdom)
 
 # 😎 These days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 아직 많이는 못풀었지만 하다보면 늘겠죠?
+- 레이 트레이싱, DLSS, 클라우드 컴퓨팅, 게임에 관심이 있어요! 더 공부하다보면 연구해볼 수 있겠죠?
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
