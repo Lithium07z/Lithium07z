@@ -54,9 +54,9 @@
 - 파이썬 과학 프로그래밍 (Python Science Programming)
 - 소프트웨어개론 (Software Overview)
 
-# 🚀 Activity details
+# 🚀 Activity Details
 - 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 (2022 Open Source Contribution Academy Sprint)
-# 🔜 What's next?
+# 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
 - 알고리즘 (Algorithm)
 - C++ 프로그래밍 (C++ Programming)
@@ -64,7 +64,7 @@
 ### ✈️ 2022년도 하계 해외 IT교육 (2022 Summer Overseas IT Education)
 - 영국 York대학교 (University of York, United Kingdom)
 
-# 😎 These days?
+# 😎 These Days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 아직 많이는 못풀었지만 하다보면 늘겠죠?
 - 레이 트레이싱, DLSS, 클라우드 컴퓨팅, 게임에 관심이 있어요! 더 공부하다보면 연구해볼 수 있겠죠?
 <!--
