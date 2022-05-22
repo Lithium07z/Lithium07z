@@ -54,6 +54,8 @@
 - 파이썬 과학 프로그래밍 (Python Science Programming)
 - 소프트웨어개론 (Software Overview)
 
+# 🚀 Activity details
+- 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 (2022 Open Source Contribution Academy Sprint)
 # 🔜 What's next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
 - 알고리즘 (Algorithm)
