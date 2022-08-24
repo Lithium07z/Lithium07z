@@ -46,13 +46,18 @@
 - 선형대수학 (Linear algebra)
 - 이산구조론 (Discrete tectonics)
 - 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
-
-### 📙 That I'm Listening Now
 - 자료구조 (Data structure)
 - C 프로그래밍 (C Programming)
 - 논리 설계 및 실험 (Logical Design and Experiment)
 - 파이썬 과학 프로그래밍 (Python Science Programming)
 - 소프트웨어개론 (Software Overview)
+
+### 📙 That I'm Listening Now
+- 컴퓨터구조 (Computer structure)
+- C++ 프로그래밍 (C++ Programming)
+- 인공지능 수학 (Artificial Intelligence Mathematics)
+- 알고리즘 (Algorithms)
+- VR/AR/게임제작기초 (VR/AR/Game Production Basics)
 
 # 🚀 Activity Details
 - 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 (2022 Open Source Contribution Academy Sprint)
