@@ -55,7 +55,7 @@
 ### 📙 That I'm Listening Now
 - 컴퓨터구조 (Computer structure)
 - C++ 프로그래밍 (C++ Programming)
-- 인공지능 수학 (Artificial Intelligence Mathematics)
+- 임베디드 시스템 (Embedded system)
 - 알고리즘 (Algorithms)
 - VR/AR/게임제작기초 (VR/AR/Game Production Basics)
 
@@ -64,13 +64,14 @@
 - 2022 하계 해외 IT교육, 영국 York대학교 (2022 Summer Overseas IT Education, University of York, United Kingdom)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-- 알고리즘 (Algorithm)
-- C++ 프로그래밍 (C++ Programming)
-- VR/AR/게임제작 기초 (VR/AR/Basics of game production)
+- 운영체제 (Operating system)
+- 정보보호론 (The theory of information protection)
+- 윈도우 프로그래밍 (Window programming)
+- 소프트웨어공학 (Software engineering)
 
 # 😎 These Days?
-- 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 아직 많이는 못풀었지만 하다보면 늘겠죠?
-- 레이 트레이싱, DLSS, 클라우드 컴퓨팅, 게임에 관심이 있어요! 더 공부하다보면 연구해볼 수 있겠죠?
+- 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 1일 1백준 실현중!!!
+- 레이 트레이싱, DLSS, 클라우드 컴퓨팅, 게임에 관심이 있어요! 오늘도 노력하는 중입니다!!
 <!--
 **Lithium07z/Lithium07z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
