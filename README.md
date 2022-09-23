@@ -43,19 +43,19 @@
 ### 📘 That I Completed
 - 자바 프로그래밍1 (Java Programming 1)
 - 자바 프로그래밍2 (Java Programming 2)
-- 선형대수학 (Linear algebra)
-- 이산구조론 (Discrete tectonics)
+- 선형대수학 (Linear Algebra)
+- 이산구조론 (Discrete Tectonics)
 - 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
-- 자료구조 (Data structure)
+- 자료구조 (Data Structure)
 - C 프로그래밍 (C Programming)
 - 논리 설계 및 실험 (Logical Design and Experiment)
 - 파이썬 과학 프로그래밍 (Python Science Programming)
 - 소프트웨어개론 (Software Overview)
 
 ### 📙 That I'm Listening Now
-- 컴퓨터구조 (Computer structure)
+- 컴퓨터구조 (Computer Structure)
 - C++ 프로그래밍 (C++ Programming)
-- 임베디드 시스템 (Embedded system)
+- 임베디드 시스템 (Embedded System)
 - 알고리즘 (Algorithms)
 - VR/AR/게임제작기초 (VR/AR/Game Production Basics)
 
@@ -64,10 +64,11 @@
 - 2022 하계 해외 IT교육, 영국 York대학교 (2022 Summer Overseas IT Education, University of York, United Kingdom)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-- 운영체제 (Operating system)
-- 정보보호론 (The theory of information protection)
-- 윈도우 프로그래밍 (Window programming)
-- 소프트웨어공학 (Software engineering)
+- 운영체제 (Operating System)
+- 컴퓨터 그래픽스 (Computer Graphics)
+- 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
+- 윈도우 프로그래밍 (Window Programming)
+- 소프트웨어 공학 (Software Engineering)
 
 # 😎 These Days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 1일 1백준 실현중!!!
