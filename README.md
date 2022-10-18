@@ -25,7 +25,9 @@
 ### 📝 Platforms & Languages 
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+<a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
+<a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 
 ### 🔧 Tools 
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=ECLIPSE%20IDE&logoColor=FFFFFF"/></a>
@@ -61,7 +63,9 @@
 
 # 🚀 Activity Details
 - 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 (2022 Open Source Contribution Academy Sprint)
+- 2022 오픈소스 컨트리뷰션 아카데미 (2022 Open Source Contribution Academy)
 - 2022 하계 해외 IT교육, 영국 York대학교 (2022 Summer Overseas IT Education, University of York, United Kingdom)
+- 2022 ICPC 서울 지역대회 본선 (2022 ACM-ICPC Seoul Regional)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
 - 운영체제 (Operating System)
