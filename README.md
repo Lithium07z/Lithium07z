@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLithium07z&count_bg=%2319D4EF&title_bg=%238EE2F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Lithium's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithium07z&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Lithium's GitHub stats](github-readme-stats-tawny-omega.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia) 
+[![Top Langs](github-readme-stats-tawny-omega.vercel.app/api/top-langs/?username=Lithium07z&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lithium07)](https://solved.ac/lithium07)
 
 
