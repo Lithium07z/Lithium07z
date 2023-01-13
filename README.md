@@ -62,8 +62,8 @@
 - VR/AR/게임제작기초 (VR/AR/Game Production Basics)
 
 # 🚀 Activity Details
-- 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 참가 (2022 Open Source Contribution Academy Sprint)
-- 2022 오픈소스 컨트리뷰션 아카데미 참가 (2022 Open Source Contribution Academy)
+- 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 수료 (2022 Open Source Contribution Academy Sprint)
+- 2022 오픈소스 컨트리뷰션 아카데미 수료 (2022 Open Source Contribution Academy)
 - 2022 하계 해외 IT교육, 영국 York대학교 (2022 Summer Overseas IT Education, University of York, United Kingdom)
 - 2022 ICPC 서울 지역대회 본선 진출 (2022 ACM-ICPC Seoul Regional)
 - 2022 한림대학교 SW Coding Festival 동상 (2022 Hallym University SW Coding Festival)
