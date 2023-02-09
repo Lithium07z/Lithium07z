@@ -28,6 +28,7 @@
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=FFFFFF"/></a>
 
 ### 🔧 Tools 
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=ECLIPSE%20IDE&logoColor=FFFFFF"/></a>
