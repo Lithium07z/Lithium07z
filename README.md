@@ -10,7 +10,7 @@
 # 🤔 Hi Junho Kim! So... What kind of person are you? 
 ![alt text](Profile_01.jpg)
 - __Name__ : 김준호 (KIM JUNHO)
-- __Age__ : 23 (Korean age)
+- __Age__ : 24 (Korean age)
 - __Email__ : Lithium@hallym.ac.kr
 - __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data) / If you get more information, 'Click this  <u>[_link_](https://sw.hallym.ac.kr/index.php?mp=2_3)</u>'
 - __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮! <a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
