@@ -54,13 +54,18 @@
 - 논리 설계 및 실험 (Logical Design and Experiment)
 - 파이썬 과학 프로그래밍 (Python Science Programming)
 - 소프트웨어개론 (Software Overview)
-
-### 📙 That I'm Listening Now
 - 컴퓨터구조 (Computer Structure)
 - C++ 프로그래밍 (C++ Programming)
 - 임베디드 시스템 (Embedded System)
 - 알고리즘 (Algorithms)
 - VR/AR/게임제작기초 (VR/AR/Game Production Basics)
+
+### 📙 That I'm Listening Now
+- 운영체제 (Operating System)
+- 컴퓨터 그래픽스 (Computer Graphics)
+- 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
+- 웹 프로그래밍 (Web Programming)
+- 정보보호론 (The Theory of Information Protection)
 
 # 🚀 Activity Details
 - 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 수료 (2022 Open Source Contribution Academy Sprint)
@@ -70,11 +75,11 @@
 - 2022 한림대학교 SW Coding Festival 동상 (2022 Hallym University SW Coding Festival)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-- 운영체제 (Operating System)
-- 컴퓨터 그래픽스 (Computer Graphics)
-- 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
-- 윈도우 프로그래밍 (Window Programming)
-- 소프트웨어 공학 (Software Engineering)
+- 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
+- 게임 프로그래밍 (Game Programming)
+- 시스템 보안 (System Security)
+- 데이터베이스 시스템 (Database System)
+- 모바일 프로그래밍 (Mobile Programming)
 
 # 😎 These Days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 1일 1백준 실현중!!!
