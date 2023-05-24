@@ -74,8 +74,8 @@
 - 2022 오픈소스 컨트리뷰션 아카데미 수료 (2022 Open Source Contribution Academy)
 - 2022 하계 해외 IT교육, 영국 York대학교 (2022 Summer Overseas IT Education, University of York, United Kingdom)
 - 2022 ICPC 서울 지역대회 본선 진출 (2022 ACM-ICPC Seoul Regional)
-- 2022 한림대학교 SW미래기술 특허 아이디어 경진대회 (2022 Hallym University Future Technology Patent Idea Contest) <br>
-  (동상 수상했으나 SW Coding Festival 수상과 겹쳐 포기)
+- 2022 한림대학교 SW미래기술 특허 아이디어 경진대회 동상 (2022 Hallym University Future Technology Patent Idea Contest) <br>
+  (SW Coding Festival 수상과 겹쳐 포기)
 - 2022 한림대학교 SW Coding Festival 동상 (2022 Hallym University SW Coding Festival)
 - 2023 1학기 심비우스 에세이 공모전 우수상 수상
 - 2023 하계 해외 IT교육, 영국 Cambridge대학교 (2023 Summer Overseas IT Education, University of Cambridge, United Kingdom)
