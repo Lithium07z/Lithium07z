@@ -78,7 +78,6 @@
   (SW Coding Festival 수상과 겹쳐 포기)
 - 2022 한림대학교 SW Coding Festival 동상 (2022 Hallym University SW Coding Festival)
 - 2023 1학기 심비우스 에세이 공모전 우수상 수상
-- 2023 하계 해외 IT교육, 영국 Cambridge대학교 (2023 Summer Overseas IT Education, University of Cambridge, United Kingdom)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
 - 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
