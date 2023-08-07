@@ -67,11 +67,11 @@
 - 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
 
 ### 📙 That I'm Listening Now
-- 시스템 프로그래밍
-- 모바일 프로그래밍
-- 게임 프로그래밍
-- 증강현실 기초 및 실습
-- 클라우드 컴퓨팅
+- 시스템 프로그래밍 (System Programming)
+- 모바일 프로그래밍 (Mobile Programming)
+- 게임 프로그래밍 (Game Programming)
+- 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
+- 클라우드 컴퓨팅 (Cloud Computing)
 
 # 🚀 Activity Details
 - 2022 1학기 심비우스 에세이 공모전 우수상 수상
