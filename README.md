@@ -47,26 +47,31 @@
 ### 📘 That I Completed
 - 자바 프로그래밍1 (Java Programming 1)
 - 자바 프로그래밍2 (Java Programming 2)
+- C 프로그래밍 (C Programming)
+- C++ 프로그래밍 (C++ Programming)
+- 자료구조 (Data Structure)
+- 알고리즘 (Algorithms)
 - 선형대수학 (Linear Algebra)
 - 이산구조론 (Discrete Tectonics)
-- 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
-- 자료구조 (Data Structure)
-- C 프로그래밍 (C Programming)
-- 논리 설계 및 실험 (Logical Design and Experiment)
-- 파이썬 과학 프로그래밍 (Python Science Programming)
-- 소프트웨어개론 (Software Overview)
-- 컴퓨터구조 (Computer Structure)
-- C++ 프로그래밍 (C++ Programming)
 - 임베디드 시스템 (Embedded System)
-- 알고리즘 (Algorithms)
+- 소프트웨어개론 (Software Overview)
+- 논리 설계 및 실험 (Logical Design and Experiment)
+- 컴퓨터구조 (Computer Structure)
+- 운영체제 (Operating System)
 - VR/AR/게임제작기초 (VR/AR/Game Production Basics)
+- 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
+- 컴퓨터 그래픽스 (Computer Graphics)
+- 정보보호론 (The Theory of Information Protection)
+- 웹 프로그래밍 (Web Programming)
+- 파이썬 과학 프로그래밍 (Python Science Programming)
+- 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
 
 ### 📙 That I'm Listening Now
-- 운영체제 (Operating System)
-- 컴퓨터 그래픽스 (Computer Graphics)
-- 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
-- 웹 프로그래밍 (Web Programming)
-- 정보보호론 (The Theory of Information Protection)
+- 시스템 프로그래밍
+- 모바일 프로그래밍
+- 게임 프로그래밍
+- 증강현실 기초 및 실습
+- 클라우드 컴퓨팅
 
 # 🚀 Activity Details
 - 2022 1학기 심비우스 에세이 공모전 우수상 수상
