@@ -13,6 +13,7 @@
 - __Age__ : 24 (Korean age)
 - __Email__ : Lithium@hallym.ac.kr
 - __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data) / If you get more information, 'Click this  <u>[_link_](https://sw.hallym.ac.kr/index.php?mp=2_3)</u>'
+- __Lab__ : [_Graphics & Virtual Environment Lab_](https://sites.google.com/view/gvelab/home?authuser=0)
 - __Hobby__ : Playing Drum🥁, Listening Music🎧, Playing Games🎮! <a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
 - __SNS__ : <a href="https://www.instagram.com/junho_drum/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=FFFFFF"/></a>
 > "넘치는 열정으로 더 나은 배움을 위해!" <br>
@@ -85,11 +86,11 @@
 - 2023 1학기 심비우스 에세이 공모전 우수상 수상
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-- 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
-- 게임 프로그래밍 (Game Programming)
-- 시스템 보안 (System Security)
-- 데이터베이스 시스템 (Database System)
-- 모바일 프로그래밍 (Mobile Programming)
+- 데이터베이스 기초 (Database Basics)
+- 윈도우 프로그래밍 (Window Programming)
+- HCI (Human-Computer Interaction)
+- 소프트웨어 공학 (Software Engineering)
+- 소프트웨어 캡스톤 디자인 (Software Capstone Design)
 
 # 😎 These Days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 1일 1백준 실현중!!!
