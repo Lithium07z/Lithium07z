@@ -25,24 +25,26 @@
 # 💪 SKILLS
 ### 📝 Platforms & Languages 
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
-<a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=FFFFFF"/></a>
+<a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
+<a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF"/></a>
 
 ### 🔧 Tools 
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=ECLIPSE%20IDE&logoColor=FFFFFF"/></a>
 <a href="https://visualstudio.microsoft.com/ko/downloads/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF"/></a>
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=ANACONDA&logoColor=FFFFFF"/></a>
+<a href="https://developer.android.com/studio/index.html" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></a>
 
 ### 🕹 Interested
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 <a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=FFFFFF"/></a>
-<a href="https://developer.android.com/studio/index.html" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></a>
 
 # 💻 Major Lectures
 ### 📘 That I Completed
