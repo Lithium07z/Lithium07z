@@ -86,6 +86,7 @@
   (SW Coding Festival 수상과 겹쳐 포기)
 - 2022 한림대학교 SW Coding Festival 동상 (2022 Hallym University SW Coding Festival)
 - 2023 1학기 심비우스 에세이 공모전 우수상 수상
+- 2023 2학기 SW Week GitHub 이력서 해커톤 은상 (2023 Hallym University Github Resume Contest)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
 - 데이터베이스 기초 (Database Basics)
