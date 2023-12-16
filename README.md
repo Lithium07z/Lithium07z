@@ -32,7 +32,7 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=FFFFFF"/></a>
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
-<a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+<a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF"/></a>
 
@@ -45,7 +45,7 @@
 
 ### 🕹 Interested
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
-<a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+<a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
 
 # 💻 Major Lectures
 ### 📘 That I Completed
