@@ -24,10 +24,11 @@
 
 # 💪 SKILLS
 ### 📝 Platforms & Languages 
-<a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
+<a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=ORACLE&logoColor=FFFFFF"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+<a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/programming-guide/" target="_blank"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=.NET&logoColor=FFFFFF"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=FFFFFF"/></a>
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
