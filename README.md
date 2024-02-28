@@ -62,20 +62,25 @@
 - 논리 설계 및 실험 (Logical Design and Experiment)
 - 컴퓨터구조 (Computer Structure)
 - 운영체제 (Operating System)
+- 시스템 프로그래밍 (System Programming)
+- 클라우드 컴퓨팅 (Cloud Computing)
+- 게임 프로그래밍 (Game Programming)
 - VR/AR/게임제작기초 (VR/AR/Game Production Basics)
 - 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
+- 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
 - 컴퓨터 그래픽스 (Computer Graphics)
 - 정보보호론 (The Theory of Information Protection)
 - 웹 프로그래밍 (Web Programming)
+- 모바일 프로그래밍 (Mobile Programming)
 - 파이썬 과학 프로그래밍 (Python Science Programming)
 - 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
 
 ### 📙 That I'm Listening Now
-- 시스템 프로그래밍 (System Programming)
-- 모바일 프로그래밍 (Mobile Programming)
-- 게임 프로그래밍 (Game Programming)
-- 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
-- 클라우드 컴퓨팅 (Cloud Computing)
+- 시스템 보안 (System Security)
+- 윈도우 프로그래밍 (Window Programming)
+- 소프트웨어 캡스톤 디자인 (Software Capstone Design)
+- 컴퓨터그래픽스 특론 (Topics in Computer Graphics)
+- 고급 네트워크 보안 (Advanced Network Security)
 
 # 🚀 Activity Details
 - 2022 1학기 심비우스 에세이 공모전 우수상 수상
@@ -90,11 +95,7 @@
 - 2023 2학기 SW Week GitHub 이력서 해커톤 은상 (2023 Hallym University Github Resume Contest)
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-- 데이터베이스 기초 (Database Basics)
-- 윈도우 프로그래밍 (Window Programming)
-- HCI (Human-Computer Interaction)
-- 소프트웨어 공학 (Software Engineering)
-- 소프트웨어 캡스톤 디자인 (Software Capstone Design)
+인턴 또는 현장실습 (Intern or field training)
 
 # 😎 These Days?
 - 요즘은 백준이 재밌어서 틈틈이 해보고 있어요! 1일 1백준 실현중!!!
