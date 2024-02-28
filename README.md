@@ -84,6 +84,9 @@
 - 컴퓨터그래픽스 특론 (Topics in Computer Graphics)
 - 고급 네트워크 보안 (Advanced Network Security)
 
+# 📑 Participatory Thesis
+[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772) (HCI KOREA 2024)
+
 # 🚀 Activity Details
 - 2022 1학기 심비우스 에세이 공모전 우수상 수상
 - 2022 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 수료 (2022 Open Source Contribution Academy Sprint)
