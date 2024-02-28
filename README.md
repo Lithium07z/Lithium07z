@@ -76,9 +76,11 @@
 - 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
 
 ### 📙 That I'm Listening Now
+#### 학부 강의 (An undergraduate lecture)
 - 시스템 보안 (System Security)
 - 윈도우 프로그래밍 (Window Programming)
 - 소프트웨어 캡스톤 디자인 (Software Capstone Design)
+#### 대학원 강의 (A graduate lecture)
 - 컴퓨터그래픽스 특론 (Topics in Computer Graphics)
 - 고급 네트워크 보안 (Advanced Network Security)
 
