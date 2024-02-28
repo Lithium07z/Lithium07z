@@ -48,7 +48,7 @@
 <a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
 
 # 💻 Major Lectures
-### 📘 That I Completed
+### 📗 That I Completed
 - 자바 프로그래밍1 (Java Programming 1)
 - 자바 프로그래밍2 (Java Programming 2)
 - C 프로그래밍 (C Programming)
