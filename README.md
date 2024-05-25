@@ -47,31 +47,31 @@
 
 # 💻 Major Lectures
 ### 📗 That I Completed
-- 자바 프로그래밍1 (Java Programming 1)
-- 자바 프로그래밍2 (Java Programming 2)
-- C 프로그래밍 (C Programming)
-- C++ 프로그래밍 (C++ Programming)
-- 자료구조 (Data Structure)
-- 알고리즘 (Algorithms)
-- 선형대수학 (Linear Algebra)
-- 이산구조론 (Discrete Tectonics)
-- 임베디드 시스템 (Embedded System)
-- 소프트웨어개론 (Software Overview)
-- 논리 설계 및 실험 (Logical Design and Experiment)
-- 컴퓨터구조 (Computer Structure)
-- 운영체제 (Operating System)
-- 시스템 프로그래밍 (System Programming)
-- 클라우드 컴퓨팅 (Cloud Computing)
-- 게임 프로그래밍 (Game Programming)
-- VR/AR/게임제작기초 (VR/AR/Game Production Basics)
-- 가상현실 기초 및 실습 (Virtual Reality Basics and Practice)
-- 증강현실 기초 및 실습 (Augmented Reality Basics and Practice)
-- 컴퓨터 그래픽스 (Computer Graphics)
-- 정보보호론 (The Theory of Information Protection)
-- 웹 프로그래밍 (Web Programming)
-- 모바일 프로그래밍 (Mobile Programming)
-- 파이썬 과학 프로그래밍 (Python Science Programming)
-- 컴퓨팅 사고와 문제해결 (Computing Thinking and Troubleshooting)
+|과목명|성적|
+|:----------|:---------:|
+|자바 프로그래밍1|A0|
+|자바 프로그래밍2|A0|
+|C 프로그래밍|A+|
+|C++ 프로그래밍|A+|
+|자료구조|A+|
+|알고리즘|A+|
+|선형대수학|B+|
+|이산구조론|B+|
+|임베디드 시스템|A+|
+|논리 설계 및 실험|A+|
+|컴퓨터구조|A+|
+|운영체제|A+|
+|시스템 프로그래밍|A+|
+|클라우드 컴퓨팅|A+|
+|게임 프로그래밍|A+|
+|VR/AR/게임제작기초|A+|
+|가상현실 기초 및 실습|A+|
+|증강현실 기초 및 실습|A+|
+|컴퓨터 그래픽스|A+|
+|정보보호론|A+|
+|웹 프로그래밍|A+|
+|모바일 프로그래밍|A+|
+|파이썬 과학 프로그래밍 기초|A0|
 
 ### 📙 That I'm Listening Now
 #### 학부 강의 (An undergraduate lecture)
