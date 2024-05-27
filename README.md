@@ -90,7 +90,7 @@
   - Unreal Engine 5/TPS
   - 3분 동안 최대한 많은 뱀파이어를 잡는 게임
 - [**한림대GO**](https://github.com/Lithium07z/Augmented_Reality_Basics_And_Practice_Term_Project)
-  - Unity 3D/AR/Live
+  - Unity 3D/AR/Firebase
   - 몬스터 마다 각기 다른 마커를 인식하여 소환하고 잡는 게임
   - Firebase를 사용해 잡은 몬스터의 정보를 데이터베이스에 저장
 - [**나만의 계산기**](https://github.com/Lithium07z/Mobile_Programming_Mini_Project)
