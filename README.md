@@ -112,6 +112,13 @@
   - Unity 3D/TPS/슈팅/시뮬레이션
   - 추격해오는 다른 탱크들로부터 살아남아 최대한 많은 적군 탱크를 파괴하는 게임
 
+# 📊 Reseach Project
+- 핵융합 디지털 트윈을 위한 플라즈마의 3차원 가시화 및 시뮬레이션 데이터 분석 기술 개발 (중견과제)
+  - 수행 기간: 2024.07 ~
+- 난청 노인을 위한 ICT 기반 중추청각인지 재활 콘텐츠 구축
+    - 수행 기간: 2023.08 ~ 2024.01
+  
+
 # 📑 Participatory Thesis (Undergraduate)
 |Author Order|Paper Title|Conference|Venue|Presentation Method|
 |:-------:|:-----:|:---:|:--:|:-------:|
