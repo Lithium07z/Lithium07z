@@ -69,18 +69,15 @@
 |증강현실 기초 및 실습|A+|
 |컴퓨터 그래픽스|A+|
 |정보보호론|A+|
+|시스템 보안|A+|
 |웹 프로그래밍|A+|
 |모바일 프로그래밍|A+|
-|파이썬 과학 프로그래밍 기초|A0|
+|윈도우 프로그래밍|A+|
+|소프트웨어 캡스톤 디자인|A+|
+|컴퓨터그래픽스 특론 (대학원 강의)|A+|
+|고급 네트워크 보안 (대학원 강의)|A+|
 
 ### 📙 That I'm Listening Now
-#### 학부 강의 (An undergraduate lecture)
-- 시스템 보안 (System Security)
-- 윈도우 프로그래밍 (Window Programming)
-- 소프트웨어 캡스톤 디자인 (Software Capstone Design)
-#### 대학원 강의 (A graduate lecture)
-- 컴퓨터그래픽스 특론 (Topics in Computer Graphics)
-- 고급 네트워크 보안 (Advanced Network Security)
 
 # 💾 Projects
 - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
