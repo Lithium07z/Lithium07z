@@ -78,6 +78,11 @@
 |고급 네트워크 보안 (대학원 강의)|A+|
 
 ### 📙 That I'm Listening Now
+#### 스터디
+- DirectX11
+- Unreal5 Toon Shading (Cel Shading, Non-Photorealistic Rendering)
+- Algorithm
+- Etc.
 
 # 💾 Projects
 - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
