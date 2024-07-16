@@ -125,6 +125,7 @@
 |Author Order|Paper Title|Conference|Venue|Presentation Method|
 |:-------:|:-----:|:---:|:--:|:-------:|
 |5th|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
+|2th|[Bullet Sign: 익스트랙션 슈터 멀티게임 개발]()|[KCGS 2024](http://cg-korea.org/conference/22/)|Gyeongju, Korea (July. 2024)|Poster|
 
 # 🚀 Activity Details
 |활동명|담당기관|날짜|
