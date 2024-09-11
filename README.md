@@ -79,10 +79,10 @@
 
 ### 📙 That I'm Listening Now
 #### 스터디
-- DirectX11
-- Unreal5 Toon Shading (Cel Shading, Non-Photorealistic Rendering)
-- Algorithm
-- Etc.
+- 네트워크 보안
+- 현대 암호
+- 3차원 모델링
+- HCI (대학원 강의)
 
 # 💾 Projects
 - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
