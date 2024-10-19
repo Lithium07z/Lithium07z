@@ -79,7 +79,7 @@
 - 3차원 모델링
 - HCI (대학원 강의)
 # 💾 Projects
-- [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
+- [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project_Summary.git)
   - Unity 3D/TPS/익스트랙션 슈터
   - 맵에서 남은 시간안에 상대를 죽이고 파밍하거나 화물을 배달하고 탈출하는 게임
 - [**HOOM**](https://www.canva.com/design/DAF1aLSVS2Y/yDVBzfIMv2UhAkhTzY0rGA/view?utm_content=DAF1aLSVS2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)
