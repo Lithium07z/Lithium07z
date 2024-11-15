@@ -117,7 +117,8 @@
 |Author Order|Paper Title|Conference|Venue|Presentation Method|
 |:-------:|:-----:|:---:|:--:|:-------:|
 |5th|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
-|2nd|[Bullet Sign: 익스트랙션 슈터 멀티게임 개발]()|[KCGS 2024](http://cg-korea.org/conference/22/)|Gyeongju, Korea (July. 2024)|Poster|
+|2nd|[Bullet Sign: 익스트랙션 슈터 멀티게임 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866035)|[KCGS 2024](http://cg-korea.org/conference/22/)|Gyeongju, Korea (July. 2024)|Poster|
+|1st|하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법|[CISC-W](https://cisc.or.kr/)|Gwangju-si, Gyeonggi-do, Korea (November. 2024)|Poster|
 # 🚀 Activity Details
 |활동명|담당기관|날짜|
 |:----------|:---------:|:------:|
@@ -125,6 +126,7 @@
 |오픈소스 컨트리뷰션 아카데미 Challenges 수료|Open Up|2022.11| 
 |하계 해외 IT교육, 영국 York대학교|한림대학교 SW사업단|2022.07|
 |ICPC 서울 지역대회 본선 참가|ACM ICPC|2022.11| 
+|2024 SW중심대학 디지털 경진대회 참가|과학기술정보통신부, IITP, SW중심대학협의회|2024.07| 
 |ICPC 서울 지역대회 본선 진출|ACM ICPC|2024.11| 
 # 🏆 Awards
 |수상|수상명|수상기관|날짜|
@@ -137,6 +139,7 @@
 |🥉동상|캡스톤디자인 경진대회|한림대학교 LINC 3.0사업단|2024.06|
 |🥉동상|SW Week Coding Festival|한림대학교 SW사업단|2024.11|
 |🥈은상|한림 정보보호 아이디어 공모전|한림대학교 SW사업단|2024.11|
+|🥈최우수상|강원 ICT 이노베이션스퀘어 AI 해커톤 대회|강릉과학산업진흥원, 강원정보문화산업진흥원, 슘페터|2024.11|
 # 🤝 Groups & Leadership
 - 2024
   - 핵융합 디지털 트윈을 위한 플라즈마의 3차원 가시화 및 시뮬레이션 데이터 분석 기술 개발 **개발자** 
