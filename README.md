@@ -118,7 +118,7 @@
 |:-------:|:-----:|:---:|:--:|:-------:|
 |5th|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
 |2nd|[Bullet Sign: 익스트랙션 슈터 멀티게임 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866035)|[KCGS 2024](http://cg-korea.org/conference/22/)|Gyeongju, Korea (July. 2024)|Poster|
-|1st|하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법|[CISC-W](https://cisc.or.kr/)|Gwangju-si, Gyeonggi-do, Korea (November. 2024)|Poster|
+|1st|하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법|[CISC-W 2024](https://cisc.or.kr/)|Gwangju-si, Gyeonggi-do, Korea (November. 2024)|Poster|
 # 🚀 Activity Details
 |활동명|담당기관|날짜|
 |:----------|:---------:|:------:|
