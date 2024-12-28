@@ -10,7 +10,7 @@
 # 🤔 Hi Junho Kim! So... What kind of person are you? 
 ![alt text](Profile_01.jpg)
 - __Name__ : 김준호 (KIM JUNHO)
-- __Age__ : 24 (25, Korean age)
+- __Age__ : 25
 - __Email__ : Lithium@hallym.ac.kr or rlawnsghdudw@naver.com
 - __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data) / If you get more information, 'Click this  <u>[_link_](https://sw.hallym.ac.kr/index.php?mp=2_3)</u>'
 - __Lab__ : [_Graphics & Virtual Environment Lab_](https://sites.google.com/view/gvelab/home?authuser=0)
@@ -155,7 +155,7 @@
 
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-대학원 진학 또는 인턴십
+대학원 진학
 
 # 😎 These Days?
 - 컴퓨터 그래픽스, DirectX11, 언리얼 엔진에 대해 공부하고 있습니다!
