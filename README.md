@@ -8,7 +8,6 @@
 
 
 # 🤔 Hi Junho Kim! So... What kind of person are you? 
-![alt text](Profile_01.jpg)
 - __Name__ : 김준호 (KIM JUNHO)
 - __Age__ : 25
 - __Email__ : Lithium@hallym.ac.kr or rlawnsghdudw@naver.com
@@ -60,6 +59,7 @@
 |운영체제|A+|
 |시스템 프로그래밍|A+|
 |클라우드 컴퓨팅|A+|
+|3차원 모델링|A+|
 |게임 프로그래밍|A+|
 |VR/AR/게임제작기초|A+|
 |가상현실 기초 및 실습|A+|
@@ -67,17 +67,17 @@
 |컴퓨터 그래픽스|A+|
 |정보보호론|A+|
 |시스템 보안|A+|
+|네트워크 보안|A+|
+|현대 암호|A+|
 |웹 프로그래밍|A+|
 |모바일 프로그래밍|A+|
 |윈도우 프로그래밍|A+|
 |소프트웨어 캡스톤 디자인|A+|
 |컴퓨터그래픽스 특론 (대학원 강의)|A+|
 |고급 네트워크 보안 (대학원 강의)|A+|
+|HCI (대학원 강의)|A+|
 ### 📙 That I'm Listening Now
-- 네트워크 보안
-- 현대 암호
-- 3차원 모델링
-- HCI (대학원 강의)
+- Unity Shader Graph (Study)
 # 💾 Projects
 - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project_Summary.git)
   - Unity 3D/TPS/익스트랙션 슈터
