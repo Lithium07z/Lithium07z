@@ -1,6 +1,6 @@
 # HI! MY NAME IS JUNHO KIM 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLithium07z&count_bg=%2319D4EF&title_bg=%238EE2F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLithium07z?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ![Lithium's GitHub stats](https://github-readme-stats-tawny-omega.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia) 
 [![Top Langs](https://github-readme-stats-tawny-omega.vercel.app/api/top-langs/?username=Lithium07z&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,7 +9,7 @@
 
 # 🤔 Hi Junho Kim! So... What kind of person are you? 
 - __Name__ : 김준호 (KIM JUNHO)
-- __Age__ : 25
+- __Age__ : 26
 - __Email__ : Lithium@hallym.ac.kr or rlawnsghdudw@naver.com
 - __Major__ : 콘텐츠IT (Content IT), 빅데이터 (Big Data) / If you get more information, 'Click this  <u>[_link_](https://sw.hallym.ac.kr/index.php?mp=2_3)</u>'
 - __Lab__ : [_Graphics & Virtual Environment Lab_](https://sites.google.com/view/gvelab/home?authuser=0)
@@ -119,6 +119,8 @@
 |5th|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
 |2nd|[Bullet Sign: 익스트랙션 슈터 멀티게임 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866035)|[KCGS 2024](http://cg-korea.org/conference/22/)|Gyeongju, Korea (July. 2024)|Poster|
 |1st|하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법|[CISC-W 2024](https://cisc.or.kr/)|Gwangju-si, Gyeonggi-do, Korea (November. 2024)|Poster|
+|1st|모바일 증강현실 및 LLM 기반 여행지 추천 어플리케이션|[HCI 2025](https://conference.hcikorea.org/hcik2025/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
+|1st|핵융합 마그네틱 아일랜드 탐지를 위한 시뮬레이션 데이터 생성 및 가시화|[KCGS 2025](http://cg-korea.org/conference/23/)|Goseong-gun, Gangwon-do, Korea (July. 2025)|Presentation|
 # 🚀 Activity Details
 |활동명|담당기관|날짜|
 |:----------|:---------:|:------:|
