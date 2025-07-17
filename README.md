@@ -77,7 +77,7 @@
 |고급 네트워크 보안 (대학원 강의)|A+|
 |HCI (대학원 강의)|A+|
 ### 📙 That I'm Listening Now
-- Unity Shader Graph (Study)
+- Optix 7
 # 💾 Projects
 - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project_Summary.git)
   - Unity 3D/TPS/익스트랙션 슈터
@@ -157,7 +157,7 @@
 
 # 🔜 What's Next?
 ### 📕 다음 학기 전공 강의 (Next Semester's Major lecture)
-대학원 진학
+대학원 강의
 
 # 😎 These Days?
-- 컴퓨터 그래픽스, DirectX11, 언리얼 엔진에 대해 공부하고 있습니다!
+- 컴퓨터 그래픽스, Optix, Ray Tracing에 대해 공부하고 있습니다!
