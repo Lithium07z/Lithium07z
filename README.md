@@ -37,7 +37,7 @@
 <a href="https://visualstudio.microsoft.com/ko/downloads/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF"/></a>
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=ANACONDA&logoColor=FFFFFF"/></a>
-<a href="https://developer.android.com/studio/index.html" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></a>
+<a href="https://developer.android.com/studio/index.html" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=FFFFFF"/></a>
 ### 🕹 Interested
 <a href="https://unity3d.com/kr/get-unity/download" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
 <a href="https://www.unrealengine.com/ko/" target="_blank"><img src="https://img.shields.io/badge/UNREAL-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
