@@ -76,8 +76,10 @@
 |컴퓨터그래픽스 특론 (대학원 강의)|A+|
 |고급 네트워크 보안 (대학원 강의)|A+|
 |HCI (대학원 강의)|A+|
+|감염병예방 네트워크 프랙티컴 (대학원 강의)|A+|
+|컴퓨터 그래픽스 세미나 (대학원 강의)|A+|
 ### 📙 That I'm Listening Now
-- Optix 7
+- DirectX RayTracing
 # 💾 Projects
 - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project_Summary.git)
   - Unity 3D/TPS/익스트랙션 슈터
