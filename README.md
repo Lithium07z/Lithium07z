@@ -122,8 +122,8 @@
 |1st|하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법|[CISC-W 2024](https://cisc.or.kr/)|Gwangju-si, Gyeonggi-do, Korea (November. 2024)|Poster|
 |1st|모바일 증강현실 및 LLM 기반 여행지 추천 어플리케이션|[HCI 2025](https://conference.hcikorea.org/hcik2025/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
 |1st|핵융합 마그네틱 아일랜드 탐지를 위한 시뮬레이션 데이터 생성 및 가시화|[KCGS 2025](http://cg-korea.org/conference/23/)|Goseong-gun, Gangwon-do, Korea (July. 2025)|Presentation|
-|3st|Olfactory Perception and Spatial Reliability: A Comparative Study of Fixed and Mounted Devices in VR|ISMAR 2025|Yuseong-gu, Daejeon, Korea (Oct. 2025)|Poster|
-|3st|Can Smell Guide You Home? Evaluating Olfactory Cues in VR Navigation|ISMAR 2025|Yuseong-gu, Daejeon, Korea (Oct. 2025)|Poster|
+|3st|Olfactory Perception and Spatial Reliability: A Comparative Study of Fixed and Mounted Devices in VR|[ISMAR 2025](https://www.ieeeismar.net/2025/)|Yuseong-gu, Daejeon, Korea (Oct. 2025)|Poster|
+|3st|Can Smell Guide You Home? Evaluating Olfactory Cues in VR Navigation|[ISMAR 2025](https://www.ieeeismar.net/2025/)|Yuseong-gu, Daejeon, Korea (Oct. 2025)|Poster|
 # 🚀 Activity Details
 |활동명|담당기관|날짜|
 |:----------|:---------:|:------:|
