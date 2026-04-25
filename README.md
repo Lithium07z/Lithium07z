@@ -229,11 +229,11 @@
 | Author Order | Paper Title | Conference | Venue | Presentation |
 |:---:|:---|:---:|:---|:---:|
 | 5th | [노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772) | [HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp) | Hongcheon, Korea (Feb. 2024) | Poster |
-| 1st | 하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법 | [CISC-W 2024](https://cisc.or.kr/) | Gwangju-si, Gyeonggi-do, Korea (Nov. 2024) | Poster |
-| 1st | 모바일 증강현실 및 LLM 기반 여행지 추천 어플리케이션 | [HCI 2025](https://conference.hcikorea.org/hcik2025/main/main.asp) | Hongcheon, Korea (Feb. 2025) | Poster |
+| 1st | [하드웨어 센서 정보를 이용한 안드로이드 에뮬레이터 탐지 기법](https://di0zxmb8pwajl.cloudfront.net/kiisc/conference/ciscw2024/%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC(CISC-W%E2%80%9924)+%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%E1%84%87%E1%85%AE%E1%86%A8+v5.pdf) | [CISC-W 2024](https://cisc.or.kr/) | Gwangju-si, Gyeonggi-do, Korea (Nov. 2024) | Poster |
+| 1st | [모바일 증강현실 및 LLM 기반 여행지 추천 어플리케이션](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131600) | [HCI 2025](https://conference.hcikorea.org/hcik2025/main/main.asp) | Hongcheon, Korea (Feb. 2025) | Poster |
 | 1st | 핵융합 마그네틱 아일랜드 탐지를 위한 시뮬레이션 데이터 생성 및 가시화 | [KCGS 2025](http://cg-korea.org/conference/23/) | Goseong-gun, Gangwon-do, Korea (July 2025) | Presentation |
-| 3rd | Olfactory Perception and Spatial Reliability: A Comparative Study of Fixed and Mounted Devices in VR | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
-| 3rd | Can Smell Guide You Home? Evaluating Olfactory Cues in VR Navigation | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
+| 3rd | [Olfactory Perception and Spatial Reliability: A Comparative Study of Fixed and Mounted Devices in VR](https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00237) | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
+| 3rd | [Can Smell Guide You Home? Evaluating Olfactory Cues in VR Navigation](https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00159) | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
 | 1st | VR HMD를 위한 시선 기반 Foveated Gaussian Splatting LoD 렌더링 | [HCI 2026](https://conference.hcikorea.org/hcik2026/main/main.asp) | Hongcheon, Korea (Jan. 2026) | Poster |
 | 1st | Effects of Dynamic Field-of-View and Background Opacity Modulation onCybersickness Reduction in Virtual Reality | [IEEE VR 2026](https://ieeevr.org/2026/) | Buk-gu, Daegu, Korea (March. 2026) | Poster |
 
