@@ -18,7 +18,7 @@
 - **Name** — 김준호 (Kim Junho)
 - **Age** — 26
 - **Email** — `M25050@hallym.ac.kr` · `rlawnsghdudw@naver.com`
-- **Major** — 콘텐츠IT (Content IT), 빅데이터 (Big Data) · [자세히 보기](https://sw.hallym.ac.kr/index.php?mp=2_3)
+- **Major** — 콘텐츠IT (Content IT), 빅데이터 (Big Data) · [자세히 보기](https://www.hallym.ac.kr/sw/6339/subview.do)
 - **Lab** — [Graphics & Virtual Environment Lab](https://sites.google.com/view/gve-lab/home)
 - **Hobbies** — Playing Drum 🥁 · Listening Music 🎧 · Playing Games 🎮 &nbsp;<a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
 - **SNS** — <a href="https://www.instagram.com/junho_drum/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=FFFFFF"/></a>
