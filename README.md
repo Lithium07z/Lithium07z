@@ -251,6 +251,7 @@
 | ICPC 서울 지역대회 본선 참가 | ACM ICPC | 2022.11 |
 | 2024 SW중심대학 디지털 경진대회 참가 | 과학기술정보통신부, IITP, SW중심대학협의회 | 2024.07 |
 | ICPC 서울 지역대회 본선 진출 | ACM ICPC | 2024.11 |
+| NVIDIA DLI Fundamentals of DeepLearning | 한컴이노스트림 | 2026.08 |
 
 ---
 
