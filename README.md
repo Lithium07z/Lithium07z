@@ -234,8 +234,8 @@
 | 1st | 핵융합 마그네틱 아일랜드 탐지를 위한 시뮬레이션 데이터 생성 및 가시화 | [KCGS 2025](http://cg-korea.org/conference/23/) | Goseong-gun, Gangwon-do, Korea (July 2025) | Presentation |
 | 3rd | [Olfactory Perception and Spatial Reliability: A Comparative Study of Fixed and Mounted Devices in VR](https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00237) | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
 | 3rd | [Can Smell Guide You Home? Evaluating Olfactory Cues in VR Navigation](https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00159) | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
-| 1st | VR HMD를 위한 시선 기반 Foveated Gaussian Splatting LoD 렌더링 | [HCI 2026](https://conference.hcikorea.org/hcik2026/main/main.asp) | Hongcheon, Korea (Jan. 2026) | Poster |
-| 1st | Effects of Dynamic Field-of-View and Background Opacity Modulation onCybersickness Reduction in Virtual Reality | [IEEE VR 2026](https://ieeevr.org/2026/) | Buk-gu, Daegu, Korea (March. 2026) | Poster |
+| 1st | [VR HMD를 위한 시선 기반 Foveated Gaussian Splatting LoD 렌더링](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12746008) | [HCI 2026](https://conference.hcikorea.org/hcik2026/main/main.asp) | Hongcheon, Korea (Jan. 2026) | Poster |
+| 1st | [Effects of Dynamic Field-of-View and Background Opacity Modulation onCybersickness Reduction in Virtual Reality](https://ieeexplore.ieee.org/document/11489821) | [IEEE VR 2026](https://ieeevr.org/2026/) | Buk-gu, Daegu, Korea (March. 2026) | Poster |
 
 ---
 
