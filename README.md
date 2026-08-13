@@ -236,6 +236,7 @@
 | 3rd | [Can Smell Guide You Home? Evaluating Olfactory Cues in VR Navigation](https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00159) | [ISMAR 2025](https://www.ieeeismar.net/2025/) | Yuseong-gu, Daejeon, Korea (Oct. 2025) | Poster |
 | 1st | [VR HMD를 위한 시선 기반 Foveated Gaussian Splatting LoD 렌더링](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12746008) | [HCI 2026](https://conference.hcikorea.org/hcik2026/main/main.asp) | Hongcheon, Korea (Jan. 2026) | Poster |
 | 1st | [Effects of Dynamic Field-of-View and Background Opacity Modulation onCybersickness Reduction in Virtual Reality](https://ieeexplore.ieee.org/document/11489821) | [IEEE VR 2026](https://ieeevr.org/2026/) | Buk-gu, Daegu, Korea (March. 2026) | Poster |
+| 1st | 단일 비디오 기반 거울 보조 단안 3D 가우시안 스플래팅 | [KCGS 2026](https://cg-korea.org/conference/27/) | Yeosu, Jeonnam-Gwangju, Korea (July 2026) | Presentation |
 
 ---
 
