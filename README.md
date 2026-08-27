@@ -238,6 +238,7 @@
 | 1st | [Effects of Dynamic Field-of-View and Background Opacity Modulation onCybersickness Reduction in Virtual Reality](https://ieeexplore.ieee.org/document/11489821) | [IEEE VR 2026](https://ieeevr.org/2026/) | Buk-gu, Daegu, Korea (March. 2026) | Poster |
 | 2nd | 부분 폐색이 밀집된 환경의 ReSTIR DI를 위한 비율 기반 리저버 가중치 보정 | [KCGS 2026](https://cg-korea.org/conference/27/) | Yeosu, Jeonnam-Gwangju, Korea (July 2026) | Presentation |
 | 1st | 단일 비디오 기반 거울 보조 단안 3D 가우시안 스플래팅 | [KCGS 2026](https://cg-korea.org/conference/27/) | Yeosu, Jeonnam-Gwangju, Korea (July 2026) | Presentation |
+| 4th | Smelling the Way: Olfactory Modulation of Spatial Estimation and Path Integration in Virtual Reality | [ISMAR 2026](https://www.ieeeismar.net/2026/) | Bari, Italy (October 2026) | Presentation |
 
 ---
 
