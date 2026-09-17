@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hi! My name is Junho Kim
+# Junho Kim · 김준호
+
+**Computer Graphics · XR · Game Development**
+
+실시간 그래픽스와 XR을 연구하고, 게임과 인터랙티브 콘텐츠를 개발합니다.
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLithium07z?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
