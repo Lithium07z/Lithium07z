@@ -20,12 +20,10 @@
 ## 🙋‍♂️ About Me
 
 - **Name** — 김준호 (Kim Junho)
-- **Age** — 26
 - **Email** — `M25050@hallym.ac.kr` · `rlawnsghdudw@naver.com`
 - **Major** — 콘텐츠IT (Content IT), 빅데이터 (Big Data) · [자세히 보기](https://www.hallym.ac.kr/sw/6339/subview.do)
 - **Lab** — [Graphics & Virtual Environment Lab](https://sites.google.com/view/gve-lab/home)
-- **Hobbies** — Playing Drum 🥁 · Listening Music 🎧 · Playing Games 🎮 &nbsp;<a href="https://steamcommunity.com/id/Lithium07/" target="_blank"><img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=STEAM&logoColor=FFFFFF"/></a>
-- **SNS** — <a href="https://www.instagram.com/junho_drum/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=FFFFFF"/></a>
+- **Hobbies** — Playing Drum 🥁 · Listening Music 🎧 · Playing Games 🎮
 
 > **"넘치는 열정으로 더 나은 배움을 위해!"**
 >
@@ -68,50 +66,15 @@
 
 ---
 
-## 💻 Major Lectures
+## 💻 Education
 
-### 📗 Completed Courses
-
-<details>
-<summary><b>프로그래밍 기초</b></summary>
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 자바 프로그래밍1 | A0 |
-| 자바 프로그래밍2 | A0 |
-| C 프로그래밍 | A+ |
-| C++ 프로그래밍 | A+ |
-
-</details>
+**한림대학교 · Hallym University**  
+콘텐츠IT · 빅데이터 전공 · [전공 소개](https://www.hallym.ac.kr/sw/6339/subview.do)
 
 <details>
-<summary><b>자료구조 · 알고리즘 · 수학</b></summary>
+<summary><strong>전공 및 대학원 수강 과목·성적 보기</strong></summary>
 
-| 과목명 | 성적 |
-|:---|:---:|
-| 자료구조 | A+ |
-| 알고리즘 | A+ |
-| 선형대수학 | B+ |
-| 이산구조론 | B+ |
-
-</details>
-
-<details>
-<summary><b>시스템 · 컴퓨터 구조</b></summary>
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 임베디드 시스템 | A+ |
-| 논리 설계 및 실험 | A+ |
-| 컴퓨터구조 | A+ |
-| 운영체제 | A+ |
-| 시스템 프로그래밍 | A+ |
-| 클라우드 컴퓨팅 | A+ |
-
-</details>
-
-<details>
-<summary><b>그래픽스 · 게임 · VR / AR</b></summary>
+#### 그래픽스 · 게임 · VR / AR
 
 | 과목명 | 성적 |
 |:---|:---:|
@@ -122,22 +85,36 @@
 | 증강현실 기초 및 실습 | A+ |
 | 컴퓨터 그래픽스 | A+ |
 
-</details>
-
-<details>
-<summary><b>정보 보안</b></summary>
+#### 자료구조 · 알고리즘 · 수학
 
 | 과목명 | 성적 |
 |:---|:---:|
-| 정보보호론 | A+ |
-| 시스템 보안 | A+ |
-| 네트워크 보안 | A+ |
-| 현대 암호 | A+ |
+| 자료구조 | A+ |
+| 알고리즘 | A+ |
+| 선형대수학 | B+ |
+| 이산구조론 | B+ |
 
-</details>
+#### 프로그래밍 기초
 
-<details>
-<summary><b>응용 프로그래밍</b></summary>
+| 과목명 | 성적 |
+|:---|:---:|
+| 자바 프로그래밍1 | A0 |
+| 자바 프로그래밍2 | A0 |
+| C 프로그래밍 | A+ |
+| C++ 프로그래밍 | A+ |
+
+#### 시스템 · 컴퓨터 구조
+
+| 과목명 | 성적 |
+|:---|:---:|
+| 임베디드 시스템 | A+ |
+| 논리 설계 및 실험 | A+ |
+| 컴퓨터구조 | A+ |
+| 운영체제 | A+ |
+| 시스템 프로그래밍 | A+ |
+| 클라우드 컴퓨팅 | A+ |
+
+#### 응용 프로그래밍
 
 | 과목명 | 성적 |
 |:---|:---:|
@@ -146,10 +123,16 @@
 | 윈도우 프로그래밍 | A+ |
 | 소프트웨어 캡스톤 디자인 | A+ |
 
-</details>
+#### 정보 보안
 
-<details>
-<summary><b>대학원 강의 (Graduate Courses)</b></summary>
+| 과목명 | 성적 |
+|:---|:---:|
+| 정보보호론 | A+ |
+| 시스템 보안 | A+ |
+| 네트워크 보안 | A+ |
+| 현대 암호 | A+ |
+
+#### 대학원 강의 (Graduate Courses)
 
 | 과목명 | 성적 |
 |:---|:---:|
@@ -163,9 +146,6 @@
 | 기후재난 커뮤니케이션 프랙티컴 | A0 |
 
 </details>
-
-### 📙 Currently Studying
-- DirectX RayTracing, Gaussian Splatting
 
 ---
 
@@ -276,7 +256,7 @@ CI/CD 시스템을 구축하고 Docker로 웹 서버를 클라우드에 배포�
 | 2022.05 | 오픈소스 컨트리뷰션 아카데미 지역 스프린트 @춘천 수료 | Open Up |
 
 <details>
-<summary><strong>교육·커뮤니티 활동 보기</strong></summary>
+<summary><strong>멘토·커뮤니티 활동 보기</strong></summary>
 
 #### 멘토링
 
