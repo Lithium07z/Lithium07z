@@ -167,41 +167,61 @@
 
 ## 💾 Projects
 
-### 🎮 [Bullet Sign](https://github.com/Lithium07z/2024_Capstone_Project_Summary.git)
-**Unity 3D** · TPS · 익스트랙션 슈터  
-맵에서 남은 시간 안에 상대를 죽이고 파밍하거나 화물을 배달하고 탈출하는 게임
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎮 Bullet Sign</h3>
+<p><strong>Unity 3D · TPS · 익스트랙션 슈터</strong></p>
+<p>제한 시간 안에 전투·파밍 또는 화물 배달을 수행하고 탈출하는 게임입니다.</p>
+<p><a href="https://github.com/Lithium07z/2024_Capstone_Project_Summary.git">프로젝트 정리 →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧛 HOOM</h3>
+<p><strong>Unreal Engine 5 · TPS</strong></p>
+<p>3분 동안 최대한 많은 뱀파이어를 처치하는 TPS 게임입니다.</p>
+<p><a href="https://www.canva.com/design/DAF1aLSVS2Y/yDVBzfIMv2UhAkhTzY0rGA/view?utm_content=DAF1aLSVS2Y&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor">프로젝트 소개 자료 →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📍 한림대GO</h3>
+<p><strong>Unity 3D · AR · Firebase</strong></p>
+<p>몬스터별 마커를 인식해 소환·포획하고, 포획한 몬스터 정보를 Firebase에 저장하는 AR 게임입니다.</p>
+<p><a href="https://github.com/Lithium07z/Augmented_Reality_Basics_And_Practice_Term_Project">Repository →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏎️ INITIAL H</h3>
+<p><strong>Unity 3D · VR · 레이싱</strong></p>
+<p>무작위로 생성되는 맵에서 아이템을 활용하고 다른 차량을 피해 최대한 멀리 이동하는 VR 레이싱 게임입니다.</p>
+<p><a href="https://github.com/Lithium07z/Virtual_Reality_Basics_And_Practice_Term_Project">Repository →</a></p>
+</td>
+</tr>
+</table>
 
-### 🧛 [HOOM](https://www.canva.com/design/DAF1aLSVS2Y/yDVBzfIMv2UhAkhTzY0rGA/view?utm_content=DAF1aLSVS2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-**Unreal Engine 5** · TPS  
-3분 동안 최대한 많은 뱀파이어를 잡는 게임
+<details>
+<summary><strong>더 많은 개발 프로젝트 보기 · 4개</strong></summary>
 
-### 📍 [한림대GO](https://github.com/Lithium07z/Augmented_Reality_Basics_And_Practice_Term_Project)
-**Unity 3D** · AR · Firebase
-- 몬스터마다 각기 다른 마커를 인식하여 소환하고 잡는 게임
-- Firebase를 사용해 잡은 몬스터의 정보를 데이터베이스에 저장
+### [☁️ 장고 CI/CD 서버를 이용한 유니티 채팅 시스템](https://github.com/Lithium07z/CloudComputingMiniProject)
 
-### 🔢 [나만의 계산기](https://github.com/Lithium07z/Mobile_Programming_Mini_Project)
-**Kotlin** · 계산기
-- 계산기 버튼의 값을 원하는 대로 바꾸고 저장·로드·리셋 할 수 있는 계산기
-- 계산기에 날짜를 넣고 캘린더 버튼을 누르면 해당 날짜의 캘린더로 이동
-- 계산기에 전화번호를 넣고 전화 버튼을 누르면 해당 번호로 전화할 수 있도록 전화 앱으로 이동
+**Unity 3D · Django · Docker · Python**  
+CI/CD 시스템을 구축하고 Docker로 웹 서버를 클라우드에 배포했습니다. 배포한 웹 서버를 이용해 Unity 채팅 서버를 구현했습니다.
 
-### ☁️ [장고 CI/CD 서버를 이용한 유니티 채팅 시스템](https://github.com/Lithium07z/CloudComputingMiniProject)
-**Unity 3D** · Django · Docker · Python
-- CI/CD 시스템 구축 후 도커를 이용해 웹 서버를 클라우드에 배포
-- 배포한 웹 서버를 이용해 유니티 채팅 서버를 구현
+### [📝 답안지를 갖고 튀어라](https://github.com/Lithium07z/Computer_Graphics_Term_Project)
 
-### 🏎️ [INITIAL H](https://github.com/Lithium07z/Virtual_Reality_Basics_And_Practice_Term_Project)
-**Unity 3D** · VR · 레이싱  
-랜덤으로 만들어지는 맵에서 아이템을 사용해 다른 차량에 부딪히지 않고 가장 멀리 가는 게임
+**OpenGL ES · TPS**  
+서로 다른 패턴의 스테이지를 통과해 엔딩까지 도달하는 게임입니다.
 
-### 📝 [답안지를 갖고 튀어라](https://github.com/Lithium07z/Computer_Graphics_Term_Project)
-**OpenGL ES** · TPS  
-각기 다른 패턴의 스테이지를 통과하여 엔딩까지 도달하는 게임
+### [🐅 The Last Tiger](https://github.com/Lithium07z/VR_AR_Game_Production_Basics)
 
-### 🐅 [The Last Tiger](https://github.com/Lithium07z/VR_AR_Game_Production_Basics)
-**Unity 3D** · TPS · 슈팅 · 시뮬레이션  
-추격해오는 다른 탱크들로부터 살아남아 최대한 많은 적군 탱크를 파괴하는 게임
+**Unity 3D · TPS · 슈팅 · 시뮬레이션**  
+추격해 오는 탱크들로부터 살아남아 최대한 많은 적군 탱크를 파괴하는 게임입니다.
+
+### [🔢 나만의 계산기](https://github.com/Lithium07z/Mobile_Programming_Mini_Project)
+
+**Kotlin**  
+계산기 버튼의 값을 원하는 대로 변경하고 저장·로드·리셋할 수 있는 계산기입니다. 입력한 날짜의 캘린더로 이동하거나, 입력한 전화번호로 전화를 걸 수 있도록 전화 앱으로 이동하는 기능을 구현했습니다.
+
+</details>
 
 ---
 
