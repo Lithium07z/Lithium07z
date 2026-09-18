@@ -21,9 +21,7 @@
 
 - **Name** — 김준호 (Kim Junho)
 - **Email** — `M25050@hallym.ac.kr` · `rlawnsghdudw@naver.com`
-- **Major** — 콘텐츠IT (Content IT), 빅데이터 (Big Data) · [자세히 보기](https://www.hallym.ac.kr/sw/6339/subview.do)
 - **Lab** — [Graphics & Virtual Environment Lab](https://sites.google.com/view/gve-lab/home)
-- **Hobbies** — Playing Drum 🥁 · Listening Music 🎧 · Playing Games 🎮
 
 > **"넘치는 열정으로 더 나은 배움을 위해!"**
 >
