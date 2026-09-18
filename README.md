@@ -68,8 +68,13 @@
 
 ## 💻 Education
 
+### 🎓 B.S.
 **한림대학교 · Hallym University**  
 콘텐츠IT · 빅데이터 전공 · [전공 소개](https://www.hallym.ac.kr/sw/6339/subview.do)
+
+### 🎓 M.S.
+**한림대학교 대학원 · Hallym University Graduate School**  
+컴퓨터공학과 · Computer Engineering · [전공 소개](https://sw.hallym.ac.kr/sw/6343/subview.do)
 
 <details>
 <summary><strong>전공 및 대학원 수강 과목·성적 보기</strong></summary>
