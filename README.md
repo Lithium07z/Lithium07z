@@ -228,7 +228,7 @@ Android에서 OpenGL ES 3.0 렌더링 파이프라인과 GLSL 셰이더를 직�
 
 ---
 
-## 📑 Participatory Thesis
+## 📑 Publications
 
 | Stage | Author Order | Paper Title | Conference | Venue | Presentation |
 |:---:|:---:|:---|:---:|:---|:---:|
