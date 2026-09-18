@@ -230,7 +230,7 @@ Android에서 OpenGL ES 3.0 렌더링 파이프라인과 GLSL 셰이더를 직�
 
 ## 📑 Publications
 
-| Stage | Author Order | Paper Title | Conference | Venue | Presentation |
+| Degree | Author Order | Title | Conference | Venue | Presentation Type |
 |:---:|:---:|:---|:---:|:---|:---:|
 | M.S. | 2nd | Online-Calibrated Selective Visibility Verification for ReSTIR DI | [SIGGRAPH ASIA 2026](https://asia.siggraph.org/2026/) | Kuala Lumpur, Malaysia (December 2026) | Poster |
 | M.S. | 4th | Smelling the Way: Olfactory Modulation of Spatial Estimation and Path Integration in Virtual Reality | [ISMAR 2026](https://www.ieeeismar.net/2026/) | Bari, Italy (October 2026) | Presentation |
