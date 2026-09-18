@@ -161,13 +161,13 @@ GPA · 4.30 / 4.50
 <td width="50%" valign="top">
 <h3>🎮 Bullet Sign</h3>
 <p><strong>Unity 3D · TPS · 익스트랙션 슈터</strong></p>
-<p>제한 시간 안에 전투·파밍 또는 화물 배달을 수행하고 탈출하는 게임입니다.</p>
+<p>PvPvE 환경에서 전투와 파밍, 화물 운송을 수행하고 제한 시간 내 탈출하는 익스트랙션 슈터입니다. 화물별 특성과 배송 시스템을 핵심 요소로 설계했으며, 5인 개발팀에서 팀장 및 개발을 담당했습니다.</p>
 <p><a href="https://github.com/Lithium07z/2024_Capstone_Project_Summary.git">프로젝트 정리 →</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🧛 HOOM</h3>
 <p><strong>Unreal Engine 5 · TPS</strong></p>
-<p>3분 동안 최대한 많은 뱀파이어를 처치하는 TPS 게임입니다.</p>
+<p>3분의 제한 시간 동안 최대한 많은 뱀파이어를 처치하는 Unreal Engine 5 기반 TPS 게임입니다. 짧은 플레이 세션에서 반복적인 전투와 빠른 진행에 집중한 아케이드형 슈팅 프로젝트입니다.</p>
 <p><a href="https://www.canva.com/design/DAF1aLSVS2Y/yDVBzfIMv2UhAkhTzY0rGA/view?utm_content=DAF1aLSVS2Y&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor">프로젝트 소개 자료 →</a></p>
 </td>
 </tr>
@@ -175,13 +175,13 @@ GPA · 4.30 / 4.50
 <td width="50%" valign="top">
 <h3>📍 한림대GO</h3>
 <p><strong>Unity 3D · AR · Firebase</strong></p>
-<p>몬스터별 마커를 인식해 소환·포획하고, 포획한 몬스터 정보를 Firebase에 저장하는 AR 게임입니다.</p>
+<p>이미지 트래킹, GPS 위치 정보와 Firebase를 결합한 모바일 위치 기반 AR 게임입니다. 마커와 위치 조건에 따라 몬스터를 생성·전투·포획하며, 평면 인식과 Raycast를 활용한 AR 오브젝트 및 Gallery 편집 기능도 구현했습니다.</p>
 <p><a href="https://github.com/Lithium07z/Augmented_Reality_Basics_And_Practice_Term_Project">Repository →</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🏎️ INITIAL H</h3>
 <p><strong>Unity 3D · VR · 레이싱</strong></p>
-<p>무작위로 생성되는 맵에서 아이템을 활용하고 다른 차량을 피해 최대한 멀리 이동하는 VR 레이싱 게임입니다.</p>
+<p>스마트의 회전으로 차량을 조작하며 장애물을 피해 최대한 멀리 진행하는 무한 진행형 VR 러너 게임입니다. Gaze 기반 UI와 동적 맵·차량 생성, 점진적 가속 및 4종류의 아이템 시스템을 구현했습니다.</p>
 <p><a href="https://github.com/Lithium07z/Virtual_Reality_Basics_And_Practice_Term_Project">Repository →</a></p>
 </td>
 </tr>
@@ -193,22 +193,22 @@ GPA · 4.30 / 4.50
 ### [☁️ 장고 CI/CD 서버를 이용한 유니티 채팅 시스템](https://github.com/Lithium07z/CloudComputingMiniProject)
 
 **Unity 3D · Django · Docker · Python**  
-CI/CD 시스템을 구축하고 Docker로 웹 서버를 클라우드에 배포했습니다. 배포한 웹 서버를 이용해 Unity 채팅 서버를 구현했습니다.
+클라우드에 배포된 채팅 API와 통신하는 Unity 기반 네트워크 채팅 클라이언트입니다. UnityWebRequest와 Coroutine을 이용한 비동기 HTTP 통신, JSON 파싱 및 0.5초 주기의 Polling 기반 채팅 갱신을 구현했습니다.
 
 ### [📝 답안지를 갖고 튀어라](https://github.com/Lithium07z/Computer_Graphics_Term_Project)
 
 **OpenGL ES · TPS**  
-서로 다른 패턴의 스테이지를 통과해 엔딩까지 도달하는 게임입니다.
+Android에서 OpenGL ES 3.0 렌더링 파이프라인과 GLSL 셰이더를 직접 구현한 3D 장애물 코스입니다. Lighting·Texture·Distance Fog와 Arcball/Quaternion 카메라, 동적 장애물, 충돌 판정 및 Checkpoint/Respawn 시스템을 구현했습니다.
 
 ### [🐅 The Last Tiger](https://github.com/Lithium07z/VR_AR_Game_Production_Basics)
 
 **Unity 3D · TPS · 슈팅 · 시뮬레이션**  
-추격해 오는 탱크들로부터 살아남아 최대한 많은 적군 탱크를 파괴하는 게임입니다.
+제한 시간 동안 적 탱크와 전투해 난이도별 목표 점수를 달성하는 3D 탱크 전투 게임입니다. 포신과 좌·우 궤도의 개별 피해·성능 저하·수리 시스템, 재장전, 시점 전환 및 적 탱크 랜덤 스폰을 구현했습니다.
 
 ### [🔢 나만의 계산기](https://github.com/Lithium07z/Mobile_Programming_Mini_Project)
 
 **Kotlin**  
-계산기 버튼의 값을 원하는 대로 변경하고 저장·로드·리셋할 수 있는 계산기입니다. 입력한 날짜의 캘린더로 이동하거나, 입력한 전화번호로 전화를 걸 수 있도록 전화 앱으로 이동하는 기능을 구현했습니다.
+숫자 패드의 값을 사용자가 자유롭게 변경하고 프리셋으로 저장·복원할 수 있는 Android 계산기입니다. GestureDetector 기반 제스처 입력, SharedPreferences 저장, 화면 회전 상태 보존과 전화·캘린더 Intent 연동을 구현했습니다.
 
 </details>
 
