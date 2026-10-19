@@ -230,10 +230,11 @@ Android에서 OpenGL ES 3.0 렌더링 파이프라인과 GLSL 셰이더를 직�
 
 ## 📑 Publications
 
-| Degree | Author Order | Title | Conference | Venue | Presentation Type |
+| Degree | Author Order | Title | Conference / Journal | Venue / Publication Info | Publication Type |
 |:---:|:---:|:---|:---:|:---|:---:|
+| M.S. | 3rd | [Visual tools for 3D plasma simulation: GPU-based isosurface extraction and particle-based rendering](https://doi.org/10.1371/journal.pone.0359294) | [PLOS ONE](https://journals.plos.org/plosone/) | Vol. 21, No. 10, e0359294 (Oct. 2026) | Journal Article |
 | M.S. | 2nd | Online-Calibrated Selective Visibility Verification for ReSTIR DI | [SIGGRAPH ASIA 2026](https://asia.siggraph.org/2026/) | Kuala Lumpur, Malaysia (December 2026) | Poster |
-| M.S. | 4th | Smelling the Way: Olfactory Modulation of Spatial Estimation and Path Integration in Virtual Reality | [ISMAR 2026](https://www.ieeeismar.net/2026/) | Bari, Italy (October 2026) | Presentation |
+| M.S. | 4th | [Smelling the Way: Olfactory Modulation of Spatial Estimation and Path Integration in Virtual Reality](https://arxiv.org/abs/2609.32992) | IEEE TVCG ([ISMAR 2026](https://www.ieeeismar.net/2026/)) | Bari, Italy (October 2026) | Journal Paper / Presentation |
 | M.S. | 1st | 단일 비디오 기반 거울 보조 단안 3D 가우시안 스플래팅 | [KCGS 2026](https://cg-korea.org/conference/27/) | Yeosu, Jeonnam-Gwangju, Korea (July 2026) | Presentation |
 | M.S. | 2nd | 부분 폐색이 밀집된 환경의 ReSTIR DI를 위한 비율 기반 리저버 가중치 보정 | [KCGS 2026](https://cg-korea.org/conference/27/) | Yeosu, Jeonnam-Gwangju, Korea (July 2026) | Presentation |
 | M.S. | 1st | [Effects of Dynamic Field-of-View and Background Opacity Modulation onCybersickness Reduction in Virtual Reality](https://ieeexplore.ieee.org/document/11489821) | [IEEE VR 2026](https://ieeevr.org/2026/) | Buk-gu, Daegu, Korea (March. 2026) | Poster |
