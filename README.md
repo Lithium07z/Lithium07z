@@ -79,76 +79,123 @@ GPA · 4.30 / 4.50
 <details>
 <summary><strong>전공 및 대학원 수강 과목·성적 보기</strong></summary>
 
-#### 그래픽스 · 게임 · VR / AR
+<br>
 
-| 과목명 | 성적 |
-|:---|:---:|
-| 3차원 모델링 | A+ |
-| 게임 프로그래밍 | A+ |
-| VR/AR/게임제작기초 | A+ |
-| 가상현실 기초 및 실습 | A+ |
-| 증강현실 기초 및 실습 | A+ |
-| 컴퓨터 그래픽스 | A+ |
-
-#### 자료구조 · 알고리즘 · 수학
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 자료구조 | A+ |
-| 알고리즘 | A+ |
-| 선형대수학 | B+ |
-| 이산구조론 | B+ |
-
-#### 프로그래밍 기초
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 자바 프로그래밍1 | A0 |
-| 자바 프로그래밍2 | A0 |
-| C 프로그래밍 | A+ |
-| C++ 프로그래밍 | A+ |
-
-#### 시스템 · 컴퓨터 구조
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 임베디드 시스템 | A+ |
-| 논리 설계 및 실험 | A+ |
-| 컴퓨터구조 | A+ |
-| 운영체제 | A+ |
-| 시스템 프로그래밍 | A+ |
-| 클라우드 컴퓨팅 | A+ |
-
-#### 응용 프로그래밍
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 웹 프로그래밍 | A+ |
-| 모바일 프로그래밍 | A+ |
-| 윈도우 프로그래밍 | A+ |
-| 소프트웨어 캡스톤 디자인 | A+ |
-
-#### 정보 보안
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 정보보호론 | A+ |
-| 시스템 보안 | A+ |
-| 네트워크 보안 | A+ |
-| 현대 암호 | A+ |
-
-#### 대학원 강의 (Graduate Courses)
-
-| 과목명 | 성적 |
-|:---|:---:|
-| 컴퓨터그래픽스 특론 | A+ |
-| 고급 네트워크 보안 | A+ |
-| 인간컴퓨터 상호작용 | A+ |
-| 감염병예방 네트워크 프랙티컴 | A+ |
-| 컴퓨터 그래픽스 세미나 | A+ |
-| SW 캡스톤 디자인 | A+ |
-| 가상현실 디자인 워크샵 | A+ |
-| 기후재난 커뮤니케이션 프랙티컴 | A0 |
+<table>
+  <tbody>
+    <tr>
+      <th colspan="2" width="50%" align="left">그래픽스 · 게임 · VR / AR</th>
+      <th colspan="2" width="50%" align="left">자료구조 · 알고리즘 · 수학</th>
+    </tr>
+    <tr>
+      <th align="left">과목명</th><th width="60">성적</th>
+      <th align="left">과목명</th><th width="60">성적</th>
+    </tr>
+    <tr>
+      <td>3차원 모델링</td><td align="center">A+</td>
+      <td>자료구조</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>게임 프로그래밍</td><td align="center">A+</td>
+      <td>알고리즘</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>VR/AR/게임제작기초</td><td align="center">A+</td>
+      <td>선형대수학</td><td align="center">B+</td>
+    </tr>
+    <tr>
+      <td>가상현실 기초 및 실습</td><td align="center">A+</td>
+      <td>이산구조론</td><td align="center">B+</td>
+    </tr>
+    <tr>
+      <td>증강현실 기초 및 실습</td><td align="center">A+</td>
+      <td></td><td></td>
+    </tr>
+    <tr>
+      <td>컴퓨터 그래픽스</td><td align="center">A+</td>
+      <td></td><td></td>
+    </tr>
+    <tr>
+      <th colspan="2" width="50%" align="left">프로그래밍 기초</th>
+      <th colspan="2" width="50%" align="left">시스템 · 컴퓨터 구조</th>
+    </tr>
+    <tr>
+      <th align="left">과목명</th><th width="60">성적</th>
+      <th align="left">과목명</th><th width="60">성적</th>
+    </tr>
+    <tr>
+      <td>자바 프로그래밍1</td><td align="center">A0</td>
+      <td>임베디드 시스템</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>자바 프로그래밍2</td><td align="center">A0</td>
+      <td>논리 설계 및 실험</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>C 프로그래밍</td><td align="center">A+</td>
+      <td>컴퓨터구조</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>C++ 프로그래밍</td><td align="center">A+</td>
+      <td>운영체제</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td></td><td></td>
+      <td>시스템 프로그래밍</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td></td><td></td>
+      <td>클라우드 컴퓨팅</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <th colspan="2" width="50%" align="left">응용 프로그래밍</th>
+      <th colspan="2" width="50%" align="left">정보 보안</th>
+    </tr>
+    <tr>
+      <th align="left">과목명</th><th width="60">성적</th>
+      <th align="left">과목명</th><th width="60">성적</th>
+    </tr>
+    <tr>
+      <td>웹 프로그래밍</td><td align="center">A+</td>
+      <td>정보보호론</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>모바일 프로그래밍</td><td align="center">A+</td>
+      <td>시스템 보안</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>윈도우 프로그래밍</td><td align="center">A+</td>
+      <td>네트워크 보안</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>소프트웨어 캡스톤 디자인</td><td align="center">A+</td>
+      <td>현대 암호</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <th colspan="4" align="left">대학원 강의 (Graduate Courses)</th>
+    </tr>
+    <tr>
+      <th align="left">과목명</th><th width="60">성적</th>
+      <th align="left">과목명</th><th width="60">성적</th>
+    </tr>
+    <tr>
+      <td>컴퓨터그래픽스 특론</td><td align="center">A+</td>
+      <td>고급 네트워크 보안</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>인간컴퓨터 상호작용</td><td align="center">A+</td>
+      <td>감염병예방 네트워크 프랙티컴</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>컴퓨터 그래픽스 세미나</td><td align="center">A+</td>
+      <td>SW 캡스톤 디자인</td><td align="center">A+</td>
+    </tr>
+    <tr>
+      <td>가상현실 디자인 워크샵</td><td align="center">A+</td>
+      <td>기후재난 커뮤니케이션 프랙티컴</td><td align="center">A0</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
