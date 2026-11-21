@@ -13,7 +13,7 @@
 ![Lithium's GitHub stats](https://github-readme-stats-tawny-omega.vercel.app/api?username=Lithium07z&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats-tawny-omega.vercel.app/api/top-langs/?username=Lithium07z&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lithium07)](https://solved.ac/lithium07)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lithium07)](https://solved.ac/ko/u/Lithium)
 
 </div>
 
